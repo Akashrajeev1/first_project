@@ -1,3 +1,4 @@
+#testing...
 vowels_and_constants=['a','e','i','o','u','r','t','w','x','A','E','I','O','U']
 vowels=['a','e','i','o','u']
 vowels_list=[]
