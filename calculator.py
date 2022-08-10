@@ -19,14 +19,13 @@ if operator=="2":
     print("the difference of two number is:",num1-num2)
 if operator=="3":
     print("this is an multiplication operation")
-    print("the difference of two number is:",num1*num2)
+    print("the multiplication of two number is:",num1*num2)
 if operator=="4":
     print("this is an division operation")
-    print("the difference of two number is:",num1/num2)
+    print("the division of two number is:",num1/num2)
 if operator=="5":
-    print("this is an modulus
- operation")
-    print("the difference of two number is:",num1%num2)
+    print("this is an modulus operation")
+    print("the modulus of two number is:",num1%num2)
 
 
 
